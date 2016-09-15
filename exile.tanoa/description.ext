@@ -121,7 +121,7 @@ class CfgSounds
         sound[] = {"\sounds\Akuba.ogg", 1.0, 1, 80};
         titles[] = {};
     };
-};
+}
 
 
 
