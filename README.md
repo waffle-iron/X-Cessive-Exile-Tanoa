@@ -13,6 +13,12 @@ For me to learn what this is all about and hopefully get a working Arma 3 Exile 
 
 *[Mr. Sage] 
 
-@ <a href="http://x-cessive.us">x-Cessive</a>
+mrsage@x-cessive.us
+<a href="http://x-cessive.us">www.x-Cessive.us</a>
+<a href="https://www.facebook.com/XCessiveExileTanoa">Facebook</a>
+<a href="https://plus.google.com/communities/104637817806108371786">Google +</a>
+<a href="ts3server://mrsage.teamspeak3.com?port=9376">TS3</a>
+<a href="https://twitter.com/XCessiveExile">Twitter</a>
+<a href="https://waffle.io/x-cessive/X-Cessive-Exile-Tanoa">Waffle.io</a>
+<a href="http://www.exilemod.com/profile/82437-x-cessive-mr-sage/">Exile Mod Profile</a>
 
-* Other community or team contact
