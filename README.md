@@ -1,8 +1,8 @@
 # README #
 
-*Thank you to anyone that helps me
-*the more I mess with this stuff the more and more im learning every day
-*...kinda strange that it feals like an addiction. :)
+**Thank you to anyone that helps me**
+**the more I mess with this stuff the more and more im learning every day**
+**...kinda strange that it feals like an addiction. :)**
 Also please be patient with me as I have a strange learning process.
 
 ### What is this repository for? ###
