@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/x-cessive/X-Cessive-Exile-Tanoa.png?label=ready&title=Ready)](https://waffle.io/x-cessive/X-Cessive-Exile-Tanoa)
 # README #
 
 **Thank you to anyone that helps me**
